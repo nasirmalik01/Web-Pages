@@ -1,0 +1,60 @@
+  body {background-image:url(cover3.jpg);
+       background-size:cover;}
+	   
+  .logo {opacity:0.7;
+       width:250px;}
+
+	   
+	   ul {margin:20px ;
+	   list-style-type:none;}
+	   
+	   ul li {float:right;
+	        line-height:30px;
+			width:70px;
+			padding:25px;
+			text-align:right;
+			font-size:20px;
+			font-family:arial;
+			
+			 }
+			  ul li a {color:white;
+			  text-decoration:none;
+			  border-bottom:1px solid gray}
+			  
+			  ul li a:hover {background-color:blue;
+			   display:block;
+			   width:80px;
+			   text-align:center;}
+			  
+			  .msg {color:white;
+			       font-size:25px;
+                   font-family:arial;
+				    left:400px;
+					top:0px;
+                    position:relative; }
+			.a {color:white;
+			font-size:30px;
+			left:450px;
+			position:relative;
+			border:1px solid black;
+			width:130px;
+			padding:10px;
+			border-radius:25px;
+			background-color:orange;
+			text-decoration:none;
+			text-align:center;}
+			.a a {text-decoration:none;
+			}
+			.b {color:white;
+				font-size:30px;
+			left:650px;
+			bottom:299px;
+			position:absolute;
+			border:1px solid black;
+			width:130px;
+			padding:10px;
+			border-radius:25px;
+			background-color:orange;
+			text-decoration:none;
+			text-align:center;}
+			.b a {text-decoration:none;} 
